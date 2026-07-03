@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Krushnal Patil Banner" width="100%">
+  <img src="Image.png" alt="Krushnal Patil Banner" width="100%">
 </p>
 
 
