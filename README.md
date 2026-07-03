@@ -57,6 +57,18 @@ https://linkedin.com/in/krushnal-patil-81741b385
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krushnalp2007-cloud&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krushnalp2007-cloud&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krushnalp2007-cloud&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ## 🚀 Featured Project
 
 ### CareerPilot AI
@@ -68,6 +80,10 @@ An AI-powered career guidance platform that
 - Recommends learning paths
 - Reviews resumes
 - Prepares students for interviews
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krushnalp2007-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
