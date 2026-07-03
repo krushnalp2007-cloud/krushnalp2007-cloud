@@ -2,7 +2,8 @@
   <img src="banner.png" alt="Krushnal Patil Banner" width="100%">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Software+Developer;CSE+Student+at+KIT+Kolhapur;Learning+Java+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things+🚀" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Software+Developer;Learning+Java+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things" />
 </p>
 
 
