@@ -63,15 +63,18 @@ https://linkedin.com/in/krushnal-patil-81741b385
   <img src="https://streak-stats.demolab.com?user=krushnalp2007-cloud&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krushnalp2007-cloud&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ## 🚀 Featured Project
 
-### CareerPilot AI
+🚀 CareerPilot AI
+
+⭐ AI Career Guidance Platform
+
+✔ Resume Analyzer
+✔ Skill Gap Analysis
+✔ Learning Roadmap
+✔ Interview Preparation
+
+Python • Streamlit • AI
 
 An AI-powered career guidance platform that
 
