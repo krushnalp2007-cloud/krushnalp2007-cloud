@@ -16,11 +16,6 @@ Aspiring Data Analyst | Software Developer | CSE Student from India 🇮🇳
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Software+Developer;Learning+Java+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Krushnal Patil</h1>
-
-<h3 align="center">Aspiring Data Analyst | Software Developer | CSE Student from India 🇮🇳</h3>
-
 ---
 
 ## 👨‍💻 About Me
