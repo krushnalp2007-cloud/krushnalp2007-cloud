@@ -50,11 +50,11 @@ https://linkedin.com/in/krushnal-patil-81741b385
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krushnalp2007-cloud&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnalp2007-cloud&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krushnalp2007-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnalp2007-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 ## 🚀 Featured Project
 
