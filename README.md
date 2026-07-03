@@ -1,6 +1,17 @@
 <p align="center">
-  <img src="banner.png" alt="Krushnal Patil Banner" width="100%">
+  <img src="banner.png" width="100%">
 </p>
+
+<h1 align="center">Hi 👋, I'm Krushnal Patil</h1>
+
+<h3 align="center">
+Aspiring Data Analyst | Software Developer | CSE Student from India 🇮🇳
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Software+Developer;Java+%7C+Python+%7C+SQL+%7C+Power+BI;Learning+DSA+Every+Day" />
+</p>
+
 <p align="center">
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Software+Developer;Learning+Java+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things" />
