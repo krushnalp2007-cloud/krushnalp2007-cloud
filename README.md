@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Krushnal Patil
 
-<!--
-**krushnalp2007-cloud/krushnalp2007-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst & Software Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student at KIT, Kolhapur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- Data Structures & Algorithms
+- SQL
+- Power BI
+- Python
+
+💡 Interests
+- Data Analytics
+- Software Development
+- Artificial Intelligence
+- Problem Solving
+
+## 🛠️ Tech Stack
+
+- Python
+- Java
+- C
+- SQL
+- Power BI
+- Tableau
+- Git
+- GitHub
+- Excel
+
+## 📌 Featured Project
+
+### CareerPilot AI
+An AI-powered career guidance platform that analyzes skills, identifies skill gaps, recommends learning paths, improves resumes, and prepares students for interviews.
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/krushnal-patil-81741b385
+- Email: krushnalp2007@gmail.com
+
+⭐ Always learning and building new projects.
