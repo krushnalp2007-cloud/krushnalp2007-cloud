@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Krushnal Patil Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Krushnal Patil</h1>
 
 <h3 align="center">Aspiring Data Analyst | Software Developer | CSE Student from India 🇮🇳</h3>
