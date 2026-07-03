@@ -71,7 +71,21 @@ https://linkedin.com/in/krushnal-patil-81741b385
 
 ## 🚀 Featured Project
 
-🚀 CareerPilot AI
+### 🤖 CareerPilot AI
+
+AI-powered Career Guidance Platform built with Python & Streamlit.
+
+### ✨ Features
+
+- 📄 Resume Analyzer
+- 📊 Skill Gap Analysis
+- 🛣 Personalized Learning Roadmap
+- 💼 Interview Preparation
+- 📈 Career Recommendations
+
+**Tech Stack**
+
+Python • Streamlit • AI • SQL
 
 ⭐ AI Career Guidance Platform
 
